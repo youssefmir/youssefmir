@@ -69,6 +69,13 @@ A contribution to Nassim Arifette’s project, which uses **Jev, TypeSafe AI’s
 
 [Discover JevGrep ↗](https://github.com/nassim-arifette/jevgrep)
 
+#### 05 — Notionnel
+**A French-language introduction to derivatives for people new to finance.**
+
+Follow a wheat farmer and a baker as they agree on a price for a future harvest. Then try the options simulator: change the strike price or premium to see how much the buyer and seller of a call or put would gain or lose at expiry. Each module ends with a short quiz.
+
+[Explore Notionnel ↗](https://notionnel.vercel.app/) &nbsp; · &nbsp; [View the code](https://github.com/youssefmir/notionnel)
+
 <details>
 <summary><strong>More work — data engineering, modeling and statistics</strong></summary>
 
