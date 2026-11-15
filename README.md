@@ -6,6 +6,7 @@
   <a href="https://youssefmir.github.io/"><img src="assets/contact-portfolio.svg" alt="Portfolio" height="56"></a>
   <a href="https://www.linkedin.com/in/youssefmir/"><img src="assets/contact-linkedin.svg" alt="LinkedIn" height="56"></a>
   <a href="https://x.com/yussefmir"><img src="assets/contact-x.svg" alt="X / Twitter" height="56"></a>
+  <a href="mailto:miryoussef16@gmail.com"><img src="assets/contact-email.svg" alt="Email: miryoussef16@gmail.com" height="56"></a>
 </p>
 
 <p align="center"><a href="https://github.com/youssefmir?tab=repositories">All my projects</a></p>
@@ -86,7 +87,7 @@ A contribution to Nassim Arifette’s project, which uses **Jev, TypeSafe AI’s
 
 I am developing my work in **quantitative research**, with a particular focus on regime changes, transaction costs and temporal validation. My goal is to produce reproducible experiments, readable charts and verifiable conclusions.
 
-To discuss finance, data or AI, find me on **[LinkedIn](https://www.linkedin.com/in/youssefmir/)** and **[X / Twitter](https://x.com/yussefmir)**.
+To discuss finance, data or AI, **[email me ↗](mailto:miryoussef16@gmail.com)** or find me on **[LinkedIn](https://www.linkedin.com/in/youssefmir/)** and **[X / Twitter](https://x.com/yussefmir)**.
 
 <sub>Personal projects and open source contributions. They do not represent my employer’s activities or positions.</sub>
 
