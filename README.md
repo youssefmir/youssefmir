@@ -18,12 +18,7 @@ I work in **Artificial Intelligence Solutions at BNP Paribas** and hold a **Mast
 My personal projects focus on **quantitative finance**: time series, systematic strategies, risk measurement and model evaluation. I am as interested in what a model can tell us as in the limits of its results.
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-202925?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B" height="28">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-202925?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOURCQjc5IiBzdHJva2Utd2lkdGg9IjEuOCI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjgiIHJ5PSIzIi8%2BPHBhdGggZD0iTTQgNXYxNGMwIDEuNjYgMy41OCAzIDggM3M4LTEuMzQgOC0zVjVNNCAxMmMwIDEuNjYgMy41OCAzIDggM3M4LTEuMzQgOC0zIi8%2BPC9zdmc%2B" height="28">
-  <img alt="Dataiku" src="https://img.shields.io/badge/Dataiku-202925?style=for-the-badge&amp;logo=dataiku&amp;logoColor=35B4AF" height="28">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-202925?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjRjJDODExIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BUG93ZXIgQkk8L3RpdGxlPjxwYXRoIGQ9Ik0xMCAxMmExIDEgMCAwIDEgMSAxdjExSDRhMSAxIDAgMCAxLTEtMVYxM2ExIDEgMCAwIDEgMS0xaDZabS0yLS41VjdhMSAxIDAgMCAxIDEtMWg2YTEgMSAwIDAgMSAxIDF2MTdoLTQuNVYxM2ExLjUgMS41IDAgMCAwLTEuNS0xLjVIOFptNS02VjFhMSAxIDAgMCAxIDEtMWg2YTEgMSAwIDAgMSAxIDF2MjJhMSAxIDAgMCAxLTEgMWgtMy41VjdBMS41IDEuNSAwIDAgMCAxNSA1LjVoLTJaIi8%2BPC9zdmc%2B" height="28">
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-202925?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=F7931E" height="28">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-202925?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" height="28">
+  <img src="assets/tech-toolkit.svg" alt="Python, SQL, Dataiku, Power BI, scikit-learn and TypeScript" width="360">
 </p>
 
 ---
