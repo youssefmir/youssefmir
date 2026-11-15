@@ -1,89 +1,89 @@
 <picture>
-  <img alt="Youssef Mir — Finance, Data et IA. Comprendre les données. Éclairer les décisions." src="banner.svg" width="100%">
+  <img alt="Youssef Mir — Finance, Data and AI. Understand the data. Inform decisions." src="banner.svg" width="100%">
 </picture>
 
 <p align="center">
   <a href="https://youssefmir.github.io/">Portfolio</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/youssefmir/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="https://github.com/youssefmir?tab=repositories">Tous mes projets</a>
+  <a href="https://github.com/youssefmir?tab=repositories">All my projects</a>
 </p>
 
-### De la donnée à la décision financière
+### From data to financial decisions
 
-AI Business Analyst chez **BNP Paribas**, diplômé du **Master MIAGE de l’Université Paris-Saclay**. Je travaille à l’interface du métier et des équipes IT/Data : analyse des besoins, Python, SQL, outils d’IA et reporting.
+I work in **Artificial Intelligence Solutions at BNP Paribas** and hold a **Master’s degree in MIAGE from Paris-Saclay University**. My work connects business and IT/Data teams through requirements analysis, Python, SQL, AI tools and reporting.
 
-J’oriente mes projets personnels vers la **finance quantitative** : séries temporelles, stratégies systématiques, mesure du risque et évaluation des modèles. Je m’intéresse autant à ce qu’un modèle permet de conclure qu’aux limites de ses résultats.
+My personal projects focus on **quantitative finance**: time series, systematic strategies, risk measurement and model evaluation. I am as interested in what a model can tell us as in the limits of its results.
 
 `Python` · `SQL` · `Dataiku` · `Power BI` · `scikit-learn` · `TypeScript`
 
 ---
 
-### Projets à découvrir
+### Featured projects
 
 #### 01 — Regime Shift Lab
-**Tester une rotation ETF quand les actions et les obligations baissent ensemble.**
+**Testing an ETF rotation strategy when stocks and bonds fall together.**
 
-<a href="https://youssefmir.github.io/research/regime-shift-lab/"><img src="https://raw.githubusercontent.com/youssefmir/regime-shift-lab/main/site/preview.svg" alt="Regime Shift Lab : rendements, risque et comparaison au portefeuille 60/40 sur 2022–2026." width="100%"></a>
+<a href="https://youssefmir.github.io/research/regime-shift-lab/"><img src="assets/regime-shift.svg" alt="Regime Shift Lab: returns, risk and comparison with a 60/40 portfolio over 2022–2026." width="100%"></a>
 
-Backtest reproductible sur **SPY, IEF, GLD et SHY** : momentum, corrélation, exécution décalée et coûts de transaction. Sur 2022–2026, le rendement annualisé simulé est de **7,6 %**, contre **6,2 %** pour le 60/40 ; la perte maximale est aussi plus forte (**−24,0 %** contre **−20,9 %**).
+A reproducible backtest using **SPY, IEF, GLD and SHY**, with momentum, correlation, lagged execution and transaction costs. Over 2022–2026, the simulated annualized return is **7.6%**, compared with **6.2%** for the 60/40 portfolio; the maximum drawdown is also greater (**−24.0%** versus **−20.9%**).
 
-L’intégration de **Jev de TypeSafe AI** classe des notes macroéconomiques en probabilités structurées, séparées des signaux historiques. Le code et ses tests sont publiés ; l’appel réel au modèle nécessite l’activation du fournisseur sur serveur.
+The integration of **Jev from TypeSafe AI** classifies macroeconomic notes into structured probabilities, kept separate from historical signals. The code and tests are published; live model calls require server-side provider activation.
 
-`Finance quantitative` · `Python` · `ETF` · `Analyse du risque` · `TypeSafe Jev`
+`Quantitative finance` · `Python` · `ETF` · `Risk analysis` · `TypeSafe Jev`
 
-[Explorer l’étude ↗](https://youssefmir.github.io/research/regime-shift-lab/) · [Voir le code et le protocole](https://github.com/youssefmir/regime-shift-lab)
+[Explore the study ↗](https://youssefmir.github.io/research/regime-shift-lab/) · [View the code and methodology](https://github.com/youssefmir/regime-shift-lab)
 
 #### 02 — Credit Process Intelligence
-**Comprendre où un processus de crédit perd du temps, puis chiffrer les améliorations.**
+**Finding where a credit process loses time, then quantifying improvements.**
 
-<a href="https://credit-process-intelligence.vercel.app/"><img src="https://raw.githubusercontent.com/youssefmir/credit-process-intelligence/main/docs/img/ouverture-clair.png" alt="Credit Process Intelligence : visualisation du parcours réel de demandes de crédit sous forme de plan de réseau." width="100%"></a>
+<a href="https://credit-process-intelligence.vercel.app/"><img src="assets/credit-process.svg" alt="Credit Process Intelligence: an overview of credit application flows, rework and waiting time." width="100%"></a>
 
-Analyse de **13 087 demandes de crédit réelles** avec process mining, évaluation prédictive et simulation de Monte Carlo. Le projet relie le diagnostic des données à un business case et aux livrables d’un Business Analyst.
+Analysis of **13,087 real credit applications** using process mining, predictive evaluation and Monte Carlo simulation. The project connects data analysis to a business case and Business Analyst deliverables.
 
 `Finance` · `Process mining` · `Python` · `Machine learning` · `Monte Carlo`
 
-[Explorer l’étude ↗](https://credit-process-intelligence.vercel.app/) &nbsp; · &nbsp; [Voir le code](https://github.com/youssefmir/credit-process-intelligence)
+[Explore the study ↗](https://credit-process-intelligence.vercel.app/) &nbsp; · &nbsp; [View the code](https://github.com/youssefmir/credit-process-intelligence)
 
 #### 03 — AI Use Case Factory
-**Prioriser des investissements IA en tenant compte de leur valeur, de leur faisabilité et de leurs risques.**
+**Prioritizing AI investments based on value, feasibility and risk.**
 
-<a href="https://ai-usecase-factory.vercel.app/"><img src="https://raw.githubusercontent.com/youssefmir/ai-usecase-factory/main/docs/img/vitrine-sombre.png" alt="AI Use Case Factory : atelier visuel et matrice valeur-faisabilité des cas d’usage IA." width="100%"></a>
+<a href="https://ai-usecase-factory.vercel.app/"><img src="assets/ai-factory.svg" alt="AI Use Case Factory: five stages from framing to roadmap and a value-feasibility matrix." width="100%"></a>
 
-Un atelier interactif pour cadrer des cas d’usage, calculer leur VAN, tester les hypothèses par Monte Carlo et construire une roadmap. **16 cas fictifs dans 3 organisations**, avec des hypothèses et des résultats explicités.
+An interactive workshop to scope use cases, calculate their NPV, test assumptions with Monte Carlo simulation and build a roadmap. **16 fictional use cases across 3 organizations**, with explicit assumptions and results.
 
-`Business case` · `Analyse du risque` · `Monte Carlo` · `React` · `TypeScript`
+`Business case` · `Risk analysis` · `Monte Carlo` · `React` · `TypeScript`
 
-[Ouvrir l’atelier ↗](https://ai-usecase-factory.vercel.app/) &nbsp; · &nbsp; [Voir le code](https://github.com/youssefmir/ai-usecase-factory)
+[Open the workshop ↗](https://ai-usecase-factory.vercel.app/) &nbsp; · &nbsp; [View the code](https://github.com/youssefmir/ai-usecase-factory)
 
-#### 04 — JevGrep · contribution open source
-**Trouver du code à partir de ce qu’il fait.**
+#### 04 — JevGrep · open source contribution
+**Finding code by what it does.**
 
-Contribution au projet de Nassim Arifette, qui utilise **Jev, le modèle de décision de TypeSafe AI**, pour rechercher des extraits de code. Ma contribution porte sur l’ajout d’**OpenRouter** comme fournisseur, aux côtés de TypeSafe et de Vercel AI Gateway.
+A contribution to Nassim Arifette’s project, which uses **Jev, TypeSafe AI’s decision model**, to search for code snippets. My contribution adds **OpenRouter** as a provider alongside TypeSafe and Vercel AI Gateway.
 
 `TypeSafe Jev` · `TypeScript` · `CLI` · `MCP` · `OpenRouter`
 
-[Découvrir JevGrep ↗](https://github.com/nassim-arifette/jevgrep)
+[Discover JevGrep ↗](https://github.com/nassim-arifette/jevgrep)
 
 <details>
-<summary><strong>Autres travaux — data engineering, modélisation et statistiques</strong></summary>
+<summary><strong>More work — data engineering, modeling and statistics</strong></summary>
 
 <br>
 
-| Projet | Ce que j’y explore | Liens |
+| Project | What I explore | Links |
 | :--- | :--- | :--- |
-| **Radar Marchés Publics** | Entrepôt DuckDB/dbt, classement hybride et analyse de la concurrence | [Démo](https://radar-marches-publics.vercel.app/) · [Code](https://github.com/youssefmir/radar-marches-publics) |
-| **Prix des billets d’avion** | Prédiction par gradient boosting et simulateur dans le navigateur | [Démo](https://prediction-billets-avion.vercel.app/) · [Code](https://github.com/youssefmir/Prediction-of-the-price-of-airline-tickets-for-an-Indian-company-) |
-| **Précipitations au Kerala** | Séries temporelles, tendances et visualisations des précipitations | [Démo](https://precipitations-kerala.vercel.app/) · [Code](https://github.com/youssefmir/Precipitations-dans-le-Kerala) |
-| **Pollinisation dans les Pyrénées** | Analyse statistique des changements climatiques et écologiques | [Démo](https://pollination-pyrenees.vercel.app/) · [Code](https://github.com/youssefmir/Analysis-of-pollination-in-the-Pyrenees-main) |
+| **Public Procurement Radar** | A DuckDB/dbt warehouse, hybrid ranking and competitive analysis | [Demo](https://radar-marches-publics.vercel.app/) · [Code](https://github.com/youssefmir/radar-marches-publics) |
+| **Airline Ticket Prices** | Gradient boosting predictions and an in-browser simulator | [Demo](https://prediction-billets-avion.vercel.app/) · [Code](https://github.com/youssefmir/Prediction-of-the-price-of-airline-tickets-for-an-Indian-company-) |
+| **Rainfall in Kerala** | Time series, trends and rainfall visualizations | [Demo](https://precipitations-kerala.vercel.app/) · [Code](https://github.com/youssefmir/Precipitations-dans-le-Kerala) |
+| **Pollination in the Pyrenees** | Statistical analysis of climate and ecological changes | [Demo](https://pollination-pyrenees.vercel.app/) · [Code](https://github.com/youssefmir/Analysis-of-pollination-in-the-Pyrenees-main) |
 
 </details>
 
 ---
 
-### En ce moment
+### Currently
 
-Je développe mes travaux en **recherche quantitative**, avec une attention particulière aux changements de régime, aux coûts de transaction et à la validation temporelle. Mon objectif : des expériences reproductibles, des graphiques lisibles et des conclusions vérifiables.
+I am developing my work in **quantitative research**, with a particular focus on regime changes, transaction costs and temporal validation. My goal is to produce reproducible experiments, readable charts and verifiable conclusions.
 
-Pour échanger sur la finance, les données ou l’IA : **[retrouvez-moi sur LinkedIn ↗](https://www.linkedin.com/in/youssefmir/)**.
+To discuss finance, data or AI, **[find me on LinkedIn ↗](https://www.linkedin.com/in/youssefmir/)**.
 
-<sub>Projets personnels et contributions open source. Ils ne représentent pas les activités ou positions de mon employeur.</sub>
+<sub>Personal projects and open source contributions. They do not represent my employer’s activities or positions.</sub>
