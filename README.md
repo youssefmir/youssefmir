@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Youssef Mir — Finance, Data and AI. Understand the data. Inform decisions." src="banner.svg" width="100%">
+  <img alt="Youssef Mir — Finance, Data and AI. Understand the data. Inform decisions." src="banner-en.svg" width="100%">
 </picture>
 
 <p align="center">
